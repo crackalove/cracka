@@ -1,12 +1,17 @@
+```
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=cracka;Reverse+Engineer;Binary+Destroyer;Memory+Manipulator;cracka.cfd" />
+```
+`<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=cracka;Reverse+Engineer;Binary+Destroyer;Memory+Manipulator;cracka.cfd" />`
+```
 </p>
-
+```
+```
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600"/>
+```
+`<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600"/>`
+```
 </p>
-
-
+```
 
 ------------------------------------------------------------------------
 
@@ -101,7 +106,7 @@ while(alive) {
 ```
 <p align="center">
 ```
-`<img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="400"/>`{=html}
-```{=html}
+`<img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="400"/>`
+```
 </p>
 ```
