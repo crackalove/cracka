@@ -10,7 +10,7 @@
 
 ---
 
-### 👋 Hey, I'm crackalove
+### 👋 Hey, I'm cracka
 
 A self-taught **security researcher** and **low-level systems programmer** with a deep interest in how things break. I reverse engineer binaries, write exploits, and build tools in Rust, C++, and Python. If it runs on bare metal, I want to know how it works — and how to make it do something it wasn't supposed to.
 
@@ -122,7 +122,7 @@ Reverse engineering, binary exploitation, low-level systems programming, Rust, C
 <div align="center">
 
 [![cracka.cfd](https://img.shields.io/badge/cracka.cfd-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://cracka.cfd)
-[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/crackalove)
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/UnRezolved)
 
 </div>
 
