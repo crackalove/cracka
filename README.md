@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=120&section=header&text=crackalove&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=500&lines=security+researcher;reverse+engineer;low-level+systems+programmer;rust+%7C+c%2B%2B+%7C+python;breaking+things+to+understand+them)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=500&lines=security+researcher;reverse+engineer;low-level+systems+programmer;c%2B%2B+%7C+python;breaking+things+to+understand+them)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=crackalove&color=ffffff&style=flat-square&label=profile+views)
 
@@ -10,9 +10,9 @@
 
 ---
 
-### 👋 Hey, I'm cracka
+### 👋 Hey, I'm crackalove
 
-A self-taught **security researcher** and **low-level systems programmer** with a deep interest in how things break. I reverse engineer binaries, write exploits, and build tools in Rust, C++, and Python. If it runs on bare metal, I want to know how it works — and how to make it do something it wasn't supposed to.
+A self-taught **security researcher** and **low-level systems programmer** with a deep interest in how things break. I reverse engineer binaries, write exploits, and build tools in C++ and Python. If it runs on bare metal, I want to know how it works — and how to make it do something it wasn't supposed to.
 
 I work mostly in the dark — offensive security, vulnerability research, malware analysis, and anything that requires reading assembly at 3am.
 
@@ -22,7 +22,7 @@ I work mostly in the dark — offensive security, vulnerability research, malwar
 
 ### 🔭 What I'm working on
 
-- Building custom tooling for binary analysis in **Rust**
+- Building custom tooling for binary analysis in **C++**
 - Researching memory corruption vulnerabilities
 - Studying kernel internals and low-level exploitation techniques
 - Improving my **reverse engineering** workflow
@@ -35,7 +35,7 @@ I work mostly in the dark — offensive security, vulnerability research, malwar
 
 ### 💬 Ask me about
 
-Reverse engineering, binary exploitation, low-level systems programming, Rust, C++, Python scripting for security.
+Reverse engineering, binary exploitation, low-level systems programming, C++, Python scripting for security.
 
 ---
 
@@ -43,12 +43,10 @@ Reverse engineering, binary exploitation, low-level systems programming, Rust, C
 
 <div align="center">
 
-[![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/)
 [![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
-[![Assembly](https://skillicons.dev/icons?i=nasm&theme=dark)](https://nasm.us/)
 
 </div>
 
@@ -61,7 +59,6 @@ Reverse engineering, binary exploitation, low-level systems programming, Rust, C
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 [![Vim](https://skillicons.dev/icons?i=vim)](https://www.vim.org/)
-[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/)
 
 </div>
 
@@ -97,16 +94,6 @@ Reverse engineering, binary exploitation, low-level systems programming, Rust, C
 
 ---
 
-### 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=crackalove&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ### 📈 Contribution Graph
 
 <div align="center">
@@ -121,7 +108,7 @@ Reverse engineering, binary exploitation, low-level systems programming, Rust, C
 
 <div align="center">
 
-[![cracka.cfd](https://img.shields.io/badge/cracka.cfd-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://cracka.cfd)
+[![Website](https://img.shields.io/badge/cracka.cfd-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://cracka.cfd)
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/UnRezolved)
 
 </div>
