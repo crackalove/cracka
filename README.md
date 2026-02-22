@@ -125,13 +125,3 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=crackalove&color=00ff00&style=flat-square" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="420" />
-</p>
