@@ -1,62 +1,112 @@
-<h1 align="center">Hi 👋, I'm cracka</h1>
-<h3 align="center">Reverse Engineer • Low-Level Developer • Security Researcher</h3>
-
+```{=html}
 <p align="center">
-  <a href="https://cracka.cfd">
-    <img src="https://img.shields.io/badge/Website-cracka.cfd-black?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
+```
+`<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=cracka;Reverse+Engineer;Binary+Destroyer;Memory+Manipulator;cracka.cfd" />`{=html}
+```{=html}
 </p>
-
----
-
-## 🧠 About Me
-
-- 🔍 Reverse engineering binaries & malware  
-- ⚙️ Low-level development (C / C++ / ASM)  
-- 🧬 Working with memory, exploits & internals  
-- 🛠 Breaking things to understand how they work  
-
-> "If you can't read the assembly, you don't know what your code does."
-
----
-
-## 🛠 Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,linux,python,git"/>
-</p>
-
-- 🧩 IDA Pro / Ghidra  
-- 🧪 x64dbg / WinDbg  
-- 🐧 Linux & Windows Internals  
-- 🔐 RE / Exploit Dev  
-
----
-
-## 📊 GitHub Stats
-
+```
+```{=html}
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cracka&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cracka&layout=compact&theme=tokyonight&hide_border=true"/>
+```
+`<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-## 🧨 Activity
+``` diff
++ Name: cracka
++ Role: Reverse Engineer
++ Focus: Binaries / Exploits / Internals
++ Website: cracka.cfd
+```
 
+------------------------------------------------------------------------
+
+## ☠ ABOUT
+
+``` c
+while(alive) {
+    reverse(engine);
+    break(protection);
+    analyze(memory);
+}
+```
+
+> "Trust nothing. Disassemble everything."
+
+------------------------------------------------------------------------
+
+## 🧠 SKILLS
+
+```{=html}
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cracka&theme=tokyonight&hide_border=true"/>
+```
+`<img src="https://skillicons.dev/icons?i=c,cpp,python,linux,git&theme=dark"/>`{=html}
+```{=html}
 </p>
+```
+    [✔] IDA Pro
+    [✔] Ghidra
+    [✔] x64dbg
+    [✔] WinDbg
+    [✔] ASM x86/x64
+    [✔] PE / ELF Internals
+    [✔] Exploit Development
 
----
+------------------------------------------------------------------------
 
-## 🌐 Contact
+## 📊 GITHUB STATS
 
-- 🌍 Website: https://cracka.cfd  
-- 💬 Telegram / Discord — add if needed  
-
----
-
+```{=html}
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cracka&color=blueviolet&style=flat-square"/>
+```
+`<img src="https://github-readme-stats.vercel.app/api?username=cracka&show_icons=true&theme=chartreuse-dark&hide_border=true"/>`{=html}
+`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cracka&layout=compact&theme=chartreuse-dark&hide_border=true"/>`{=html}
+```{=html}
 </p>
+```
+
+------------------------------------------------------------------------
+
+## 🐍 CONTRIBUTION SNAKE
+
+```{=html}
+<p align="center">
+```
+`<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+## 🌐 CONTACT
+
+```{=html}
+<p align="center">
+```
+`<a href="https://cracka.cfd">`{=html}
+`<img src="https://img.shields.io/badge/Website-cracka.cfd-00ff00?style=for-the-badge&logo=firefox&logoColor=black"/>`{=html}
+`</a>`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+```{=html}
+<p align="center">
+```
+`<img src="https://komarev.com/ghpvc/?username=cracka&color=00ff00&style=flat-square"/>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="400"/>`{=html}
+```{=html}
+</p>
+```
