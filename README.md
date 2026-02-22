@@ -22,7 +22,7 @@
 
 ## 🖤 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
-Hey. I'm **crackalove** — a self-taught **security researcher**, **reverse engineer**, and **low-level systems programmer** driven by one obsession: understanding how things *really* work under the hood.
+Hey. I'm **cracka** — a self-taught **security researcher**, **reverse engineer**, and **low-level systems programmer** driven by one obsession: understanding how things *really* work under the hood.
 
 It started simple — curiosity. Why does this crash? What does this binary actually do? How does the OS decide what runs and what doesn't? That curiosity turned into years of going deeper and deeper down the rabbit hole. Assembly language became readable. Disassemblers became familiar. Memory layouts stopped being scary. Now I spend most of my time in territory that most developers never touch — reading raw opcodes, analysing malware, writing exploit primitives, and building tooling to automate the dark arts.
 
@@ -186,14 +186,6 @@ I'm currently going deeper on **kernel exploitation**, **fuzzing** (AFL++, libFu
 
 [![Website](https://img.shields.io/badge/cracka.cfd-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://cracka.cfd)
 [![Telegram](https://img.shields.io/badge/@UnRezolved-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/UnRezolved)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="400" alt="pixel anime"/>
 
 </div>
 
