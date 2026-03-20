@@ -22,7 +22,7 @@
 
 ## 🖤 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
-Hey. I'm **crackalove** — a self-taught **security researcher**, **reverse engineer**, and **low-level systems programmer** driven by one obsession: understanding how things *really* work under the hood.
+Hey. I'm **cracka** — a self-taught **security researcher**, **reverse engineer**, and **low-level systems programmer** driven by one obsession: understanding how things *really* work under the hood.
 
 It started simple — curiosity. Why does this crash? What does this binary actually do? How does the OS decide what runs and what doesn't? That curiosity turned into years of going deeper and deeper down the rabbit hole. Assembly language became readable. Disassemblers became familiar. Memory layouts stopped being scary. Now I spend most of my time in territory that most developers never touch — reading raw opcodes, analysing malware, writing exploit primitives, and building tooling to automate the dark arts.
 
